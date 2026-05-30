@@ -1,0 +1,16 @@
+.vs/
+.vscode/
+
+**/bin/
+**/obj/
+
+*.user
+*.suo
+
+**/Logs/
+*.log
+
+appsettings.Development.json
+
+_ReSharper*/
+*.DotSettings.user
