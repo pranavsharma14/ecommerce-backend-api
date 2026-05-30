@@ -1,0 +1,11 @@
+D:\D\ASP.Net\CleanAPI\CleanAPI.Domain\bin\Debug\net8.0\CleanAPI.Domain.deps.json
+D:\D\ASP.Net\CleanAPI\CleanAPI.Domain\bin\Debug\net8.0\CleanAPI.Domain.dll
+D:\D\ASP.Net\CleanAPI\CleanAPI.Domain\bin\Debug\net8.0\CleanAPI.Domain.pdb
+D:\D\ASP.Net\CleanAPI\CleanAPI.Domain\obj\Debug\net8.0\CleanAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\D\ASP.Net\CleanAPI\CleanAPI.Domain\obj\Debug\net8.0\CleanAPI.Domain.AssemblyInfoInputs.cache
+D:\D\ASP.Net\CleanAPI\CleanAPI.Domain\obj\Debug\net8.0\CleanAPI.Domain.AssemblyInfo.cs
+D:\D\ASP.Net\CleanAPI\CleanAPI.Domain\obj\Debug\net8.0\CleanAPI.Domain.csproj.CoreCompileInputs.cache
+D:\D\ASP.Net\CleanAPI\CleanAPI.Domain\obj\Debug\net8.0\CleanAPI.Domain.dll
+D:\D\ASP.Net\CleanAPI\CleanAPI.Domain\obj\Debug\net8.0\refint\CleanAPI.Domain.dll
+D:\D\ASP.Net\CleanAPI\CleanAPI.Domain\obj\Debug\net8.0\CleanAPI.Domain.pdb
+D:\D\ASP.Net\CleanAPI\CleanAPI.Domain\obj\Debug\net8.0\ref\CleanAPI.Domain.dll

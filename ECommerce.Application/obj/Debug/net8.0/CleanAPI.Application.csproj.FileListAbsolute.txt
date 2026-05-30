@@ -1,0 +1,15 @@
+D:\D\ASP.Net\CleanAPI\CleanAPI.Application\bin\Debug\net8.0\CleanAPI.Application.deps.json
+D:\D\ASP.Net\CleanAPI\CleanAPI.Application\bin\Debug\net8.0\CleanAPI.Application.dll
+D:\D\ASP.Net\CleanAPI\CleanAPI.Application\bin\Debug\net8.0\CleanAPI.Application.pdb
+D:\D\ASP.Net\CleanAPI\CleanAPI.Application\bin\Debug\net8.0\CleanAPI.Domain.dll
+D:\D\ASP.Net\CleanAPI\CleanAPI.Application\bin\Debug\net8.0\CleanAPI.Domain.pdb
+D:\D\ASP.Net\CleanAPI\CleanAPI.Application\obj\Debug\net8.0\CleanAPI.Application.csproj.AssemblyReference.cache
+D:\D\ASP.Net\CleanAPI\CleanAPI.Application\obj\Debug\net8.0\CleanAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\D\ASP.Net\CleanAPI\CleanAPI.Application\obj\Debug\net8.0\CleanAPI.Application.AssemblyInfoInputs.cache
+D:\D\ASP.Net\CleanAPI\CleanAPI.Application\obj\Debug\net8.0\CleanAPI.Application.AssemblyInfo.cs
+D:\D\ASP.Net\CleanAPI\CleanAPI.Application\obj\Debug\net8.0\CleanAPI.Application.csproj.CoreCompileInputs.cache
+D:\D\ASP.Net\CleanAPI\CleanAPI.Application\obj\Debug\net8.0\CleanAPI.B2BD2626.Up2Date
+D:\D\ASP.Net\CleanAPI\CleanAPI.Application\obj\Debug\net8.0\CleanAPI.Application.dll
+D:\D\ASP.Net\CleanAPI\CleanAPI.Application\obj\Debug\net8.0\refint\CleanAPI.Application.dll
+D:\D\ASP.Net\CleanAPI\CleanAPI.Application\obj\Debug\net8.0\CleanAPI.Application.pdb
+D:\D\ASP.Net\CleanAPI\CleanAPI.Application\obj\Debug\net8.0\ref\CleanAPI.Application.dll
