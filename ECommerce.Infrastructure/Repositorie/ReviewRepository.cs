@@ -21,6 +21,7 @@ namespace CleanAPI.Infrastructure.Repositorie
 
         public async Task<IEnumerable<Review>> GetByProductIdAsync(int productId)
             => await _context.Reviews
+                .Include(r => r.User)
                 .Where(r => r.ProductId == productId)
                 .ToListAsync();
 
@@ -38,6 +39,13 @@ namespace CleanAPI.Infrastructure.Repositorie
         {
             _context.Reviews.Remove(review);
             await _context.SaveChangesAsync();
+        }
+
+        public async Task<Review?> GetByIdWithUserAsync(int id)
+        {
+            return await _context.Reviews
+                .Include(r => r.User)
+                .FirstOrDefaultAsync(r => r.Id == id);
         }
     }
 }

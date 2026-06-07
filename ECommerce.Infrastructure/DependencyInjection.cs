@@ -34,6 +34,7 @@ namespace CleanAPI.Infrastructure
             services.AddScoped<ICategoryRepository, CategoryRepository>();
             services.AddScoped<ICartRepository, CartRepository> ();
             services.AddScoped<IOrderRepository, OrderRepository>();
+            services.AddScoped<IReviewRepository, ReviewRepository>();
 
             // Token Service
             services.AddSingleton<ITokenServices>(provider =>

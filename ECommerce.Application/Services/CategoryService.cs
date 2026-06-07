@@ -1,6 +1,5 @@
 ﻿using CleanAPI.Application.DTOs.Product;
 using CleanAPI.Application.Exceptions;
-using CleanAPI.Domain.Entities;
 using CleanAPI.Application.DTOs.Category;
 using CleanAPI.Application.Services.Interfaces;
 using CleanAPI.Domain.Entities;
@@ -59,6 +58,8 @@ namespace CleanAPI.Application.Services
         }
         public async Task<CategoryResponseDto> CreateAsync(CreateCategoryDto dto)
         {
+            if (string.IsNullOrWhiteSpace(dto.Name))
+                throw new BadRequestException("Category name is required");
 
             var category = new Category
             {
@@ -77,6 +78,9 @@ namespace CleanAPI.Application.Services
         }
         public async Task<CategoryResponseDto> UpdateAsync(UpdateCategoryDto dto, int id)
         {
+            if (string.IsNullOrWhiteSpace(dto.Name))
+                throw new BadRequestException("Category name is required");
+
             var category = await _categoryRepository.GetByIdAsync(id);
 
             if (category == null)

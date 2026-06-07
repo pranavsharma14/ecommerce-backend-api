@@ -51,5 +51,11 @@ namespace ECommerce.Infrastructure.Repositorie
             await _context.SaveChangesAsync();
             return (order);
         }
+        public async Task ExecuteInTransactionAsync(Func<Task> operation)
+        {
+            await using var transaction = await _context.Database.BeginTransactionAsync();
+            await operation();
+            await transaction.CommitAsync();
+        }
     }
 }

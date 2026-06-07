@@ -14,5 +14,6 @@ namespace ECommerce.Domain.Interfaces
         Task<Order?> GetOrderByIdAsync(int orderId);
         Task<Order> CreateOrderAsync(Order order);
         Task<Order> UpdateOrderAsync(Order order);
+        Task ExecuteInTransactionAsync(Func<Task> operation);
     }
 }

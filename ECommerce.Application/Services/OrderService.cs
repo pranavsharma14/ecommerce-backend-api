@@ -56,7 +56,7 @@ namespace ECommerce.Application.Services
             if (order == null)
                 throw new NotFoundException("Order", orderId);
             if (order.UserId != userId)
-                throw new UnauthorizedAccessException();
+                throw new ForbiddenException("You can only view your own orders");
             return MapOrder(order);
         }
         public async Task<OrderResponseDto> PlaceOrderAsync(int userId)
@@ -70,6 +70,9 @@ namespace ECommerce.Application.Services
 
             foreach (var item in cart.CartItems)
             {
+                if (item.Quantity <= 0)
+                    throw new BadRequestException("Cart item quantity must be greater than 0");
+
                 if(item.Product.Stock < item.Quantity)
                     throw new BadRequestException($"{item.Product.ProductName} is out of Stock");
             }
@@ -80,20 +83,25 @@ namespace ECommerce.Application.Services
                 TotalAmount = cart.CartItems.Sum(x => x.Quantity * x.Product.Price),
                 CreatedAt = DateTime.UtcNow,
             };
-            foreach (var item in cart.CartItems)
+            await _orderRepository.ExecuteInTransactionAsync(async () =>
             {
-                order.OrderItems.Add(new OrderItem
+                foreach (var item in cart.CartItems)
                 {
-                    ProductId = item.ProductId,
-                    Quantity = item.Quantity,
-                    PriceAtTime = item.Product.Price
-                });
+                    order.OrderItems.Add(new OrderItem
+                    {
+                        ProductId = item.ProductId,
+                        Quantity = item.Quantity,
+                        PriceAtTime = item.Product.Price
+                    });
 
-                item.Product.Stock -= item.Quantity;
-                await _productRepository.UpdateAsync(item.Product);
-            }
-            order = await _orderRepository.CreateOrderAsync(order);
-            await _cartRepository.ClearCartAsync(cart.Id);
+                    item.Product.Stock -= item.Quantity;
+                    await _productRepository.UpdateAsync(item.Product);
+                }
+
+                order = await _orderRepository.CreateOrderAsync(order);
+                await _cartRepository.ClearCartAsync(cart.Id);
+            });
+
             return MapOrder(order);
         }
         public async Task<OrderResponseDto> UpdateOrderStatusAsync(int orderId, UpdateOrderStatusDto dto)

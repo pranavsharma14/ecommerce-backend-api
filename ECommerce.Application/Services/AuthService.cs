@@ -33,6 +33,14 @@ namespace CleanAPI.Application.Services
             if (emailExists)
                 throw new BadRequestException("Email already registered");
 
+            if (string.IsNullOrWhiteSpace(request.Role))
+                throw new BadRequestException("Role is required");
+
+            var allowedRoles = new[] { "User", "Admin" };
+
+            if (!allowedRoles.Contains(request.Role))
+                throw new BadRequestException("Invalid Role");
+
             var user = new User
             {
                 Name = request.Name,

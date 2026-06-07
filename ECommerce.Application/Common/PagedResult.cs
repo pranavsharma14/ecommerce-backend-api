@@ -13,7 +13,7 @@ namespace CleanAPI.Application.Common
         public int PageSize {  get; set; }
         public int TotalCount { get; set; }
         public int TotalPages { get; set; }
-        public bool HasNextpage { get; set; }
+        public bool HasNextPage { get; set; }
         public bool HasPreviousPage { get; set; }
 
         public PagedResult(IEnumerable<T> data, int page, int pageSize, int totalCount)
@@ -23,7 +23,7 @@ namespace CleanAPI.Application.Common
             PageSize = pageSize;
             TotalCount = totalCount;
             TotalPages = (int)Math.Ceiling(totalCount/(double)pageSize);
-            HasNextpage = page < TotalPages;
+            HasNextPage = page < TotalPages;
             HasPreviousPage = page > 1;
         }
     }

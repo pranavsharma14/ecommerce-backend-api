@@ -27,7 +27,6 @@ namespace CleanAPI.API.Controllers
             var products = await _productService.GetAllAsync();
             return Ok(products);
         }
-
         // GET: api/products/1
         [HttpGet("{id}")]
         public async Task<ActionResult<ProductwithReviewDto>> GetById(int id)

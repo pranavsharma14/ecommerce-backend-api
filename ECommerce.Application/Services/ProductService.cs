@@ -32,6 +32,7 @@ namespace CleanAPI.Application.Services
                 ProductName = p.ProductName,
                 Price = p.Price,
                 CategoryId = p.CategoryId,
+                CategoryName = p.Category?.CategoryName ?? "UnCategorized",
                 Stock = p.Stock
             });
         }
@@ -49,6 +50,7 @@ namespace CleanAPI.Application.Services
                 ProductName = product.ProductName,
                 Price = product.Price,
                 CategoryId = product.CategoryId,
+                CategoryName = product.Category?.CategoryName ?? "UnCategorized",
                 Stock = product.Stock,
                 Reviews = product.Reviews.Select(r => new ReviewResponseDto
                 {
@@ -80,6 +82,9 @@ namespace CleanAPI.Application.Services
         {
             if (dto.Price <= 0)
                 throw new BadRequestException("Price must be greater than 0");
+
+            if (dto.Stock < 0)
+                throw new BadRequestException("Stock cannot be negative");
 
             var product = new Product
             {
@@ -116,6 +121,9 @@ namespace CleanAPI.Application.Services
 
             if (dto.Price <= 0)
                 throw new BadRequestException("Price must be greater than 0");
+
+            if (dto.Stock < 0)
+                throw new BadRequestException("Stock cannot be negative");
 
             product.ProductName = dto.ProductName;
             product.Price = dto.Price;
@@ -157,14 +165,16 @@ namespace CleanAPI.Application.Services
                 Id = p.Id,
                 ProductName = p.ProductName,
                 Price = p.Price,
-                CategoryId = p.CategoryId
+                CategoryId = p.CategoryId,
+                CategoryName = p.Category?.CategoryName ?? "UnCategorized",
+                Stock = p.Stock
             });
 
             return new PagedResult<ProductResponseDto>(
                 dtos,
-                totalCounts,
                 queryParams.Page,
-                queryParams.PageSize);
+                queryParams.PageSize,
+                totalCounts);
         }
     }
 }

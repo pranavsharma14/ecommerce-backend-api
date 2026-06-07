@@ -3,48 +3,28 @@
   "WorkspaceRootPath": "D:\\D\\ASP.Net\\CleanAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|ECommerce.API\\ECommerce.API.csproj|d:\\d\\asp.net\\cleanapi\\ecommerce.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|ECommerce.API\\ECommerce.API.csproj|d:\\d\\asp.net\\cleanapi\\ecommerce.api\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|d:\\d\\asp.net\\cleanapi\\ecommerce.application\\dtos\\order\\orderdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\dtos\\order\\orderdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|d:\\d\\asp.net\\cleanapi\\ecommerce.application\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17F99BF9-7DFE-F3DF-8AF8-E1F96903B5E4}|ECommerce.Domain\\ECommerce.Domain.csproj|d:\\d\\asp.net\\cleanapi\\ecommerce.domain\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17F99BF9-7DFE-F3DF-8AF8-E1F96903B5E4}|ECommerce.Domain\\ECommerce.Domain.csproj|solutionrelative:ecommerce.domain\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|ECommerce.API\\ECommerce.API.csproj|d:\\d\\asp.net\\cleanapi\\ecommerce.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|d:\\d\\asp.net\\cleanapi\\ecommerce.application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|d:\\d\\asp.net\\cleanapi\\ecommerce.application\\dtos\\review\\reviewdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\dtos\\review\\reviewdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|ECommerce.API\\ECommerce.API.csproj|d:\\d\\asp.net\\cleanapi\\ecommerce.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5FADC3C0-1F67-920F-5C71-8D15AD76BB65}|ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|d:\\d\\asp.net\\cleanapi\\ecommerce.infrastructure\\repositorie\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FADC3C0-1F67-920F-5C71-8D15AD76BB65}|ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|solutionrelative:ecommerce.infrastructure\\repositorie\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FADC3C0-1F67-920F-5C71-8D15AD76BB65}|ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|d:\\d\\asp.net\\cleanapi\\ecommerce.infrastructure\\repositorie\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FADC3C0-1F67-920F-5C71-8D15AD76BB65}|ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|solutionrelative:ecommerce.infrastructure\\repositorie\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\ASP.Net\\CleanAPI\\ECommerce.Infrastructure\\Migrations\\20260530171604_FixOrderStatusType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ECommerce.Infrastructure\\Migrations\\20260530171604_FixOrderStatusType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FADC3C0-1F67-920F-5C71-8D15AD76BB65}|ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|d:\\d\\asp.net\\cleanapi\\ecommerce.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FADC3C0-1F67-920F-5C71-8D15AD76BB65}|ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|solutionrelative:ecommerce.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17F99BF9-7DFE-F3DF-8AF8-E1F96903B5E4}|ECommerce.Domain\\ECommerce.Domain.csproj|d:\\d\\asp.net\\cleanapi\\ecommerce.domain\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17F99BF9-7DFE-F3DF-8AF8-E1F96903B5E4}|ECommerce.Domain\\ECommerce.Domain.csproj|solutionrelative:ecommerce.domain\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|d:\\d\\asp.net\\cleanapi\\ecommerce.application\\services\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\services\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17F99BF9-7DFE-F3DF-8AF8-E1F96903B5E4}|ECommerce.Domain\\ECommerce.Domain.csproj|d:\\d\\asp.net\\cleanapi\\ecommerce.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17F99BF9-7DFE-F3DF-8AF8-E1F96903B5E4}|ECommerce.Domain\\ECommerce.Domain.csproj|solutionrelative:ecommerce.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{17F99BF9-7DFE-F3DF-8AF8-E1F96903B5E4}|ECommerce.Domain\\ECommerce.Domain.csproj|d:\\d\\asp.net\\cleanapi\\ecommerce.domain\\interfaces\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17F99BF9-7DFE-F3DF-8AF8-E1F96903B5E4}|ECommerce.Domain\\ECommerce.Domain.csproj|solutionrelative:ecommerce.domain\\interfaces\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|d:\\d\\asp.net\\cleanapi\\ecommerce.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -53,242 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5FADC3C0-1F67-920F-5C71-8D15AD76BB65}|ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|d:\\d\\asp.net\\cleanapi\\ecommerce.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FADC3C0-1F67-920F-5C71-8D15AD76BB65}|ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|solutionrelative:ecommerce.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|ECommerce.API\\ECommerce.API.csproj|d:\\d\\asp.net\\cleanapi\\ecommerce.api\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|ECommerce.API\\ECommerce.API.csproj|d:\\d\\asp.net\\cleanapi\\ecommerce.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F57E33FB-CDB3-6F39-453C-B2F68A5DC768}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|d:\\d\\asp.net\\cleanapi\\ecommerce.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|d:\\d\\asp.net\\cleanapi\\ecommerce.application\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17F99BF9-7DFE-F3DF-8AF8-E1F96903B5E4}|ECommerce.Domain\\ECommerce.Domain.csproj|d:\\d\\asp.net\\cleanapi\\ecommerce.domain\\interfaces\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17F99BF9-7DFE-F3DF-8AF8-E1F96903B5E4}|ECommerce.Domain\\ECommerce.Domain.csproj|solutionrelative:ecommerce.domain\\interfaces\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|d:\\d\\asp.net\\cleanapi\\ecommerce.application\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|d:\\d\\asp.net\\cleanapi\\ecommerce.application\\services\\interfaces\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\services\\interfaces\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|d:\\d\\asp.net\\cleanapi\\ecommerce.application\\dtos\\cart\\cartdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\dtos\\cart\\cartdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FADC3C0-1F67-920F-5C71-8D15AD76BB65}|ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|d:\\d\\asp.net\\cleanapi\\ecommerce.infrastructure\\repositorie\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FADC3C0-1F67-920F-5C71-8D15AD76BB65}|ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|solutionrelative:ecommerce.infrastructure\\repositorie\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|d:\\d\\asp.net\\cleanapi\\ecommerce.application\\dtos\\product\\productdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD4C1BBB-E0EB-4FDD-E1E3-C842D826F36B}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\dtos\\product\\productdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17F99BF9-7DFE-F3DF-8AF8-E1F96903B5E4}|ECommerce.Domain\\ECommerce.Domain.csproj|d:\\d\\asp.net\\cleanapi\\ecommerce.domain\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17F99BF9-7DFE-F3DF-8AF8-E1F96903B5E4}|ECommerce.Domain\\ECommerce.Domain.csproj|solutionrelative:ecommerce.domain\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Domain\\Entities\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanAPI.Domain\\Entities\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Infrastructure\\Migrations\\20260524173133_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanAPI.Infrastructure\\Migrations\\20260524173133_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Infrastructure\\Migrations\\20260524172737_AddProductsTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanAPI.Infrastructure\\Migrations\\20260524172737_AddProductsTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Domain\\Entities\\Category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanAPI.Domain\\Entities\\Category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Application\\Services\\Interfaces\\ICategoryService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanAPI.Application\\Services\\Interfaces\\ICategoryService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Application\\Services\\CategoryService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanAPI.Application\\Services\\CategoryService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.API\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanAPI.API\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Application\\DependencyInjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanAPI.Application\\DependencyInjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Infrastructure\\DependencyInjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanAPI.Infrastructure\\DependencyInjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Infrastructure\\Repositorie\\CategoryRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanAPI.Infrastructure\\Repositorie\\CategoryRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Application\\DTOs\\Category\\CategoryDtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanAPI.Application\\DTOs\\Category\\CategoryDtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Domain\\Interfaces\\ICategoryRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanAPI.Domain\\Interfaces\\ICategoryRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Application\\Services\\ProductService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanAPI.Application\\Services\\ProductService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Domain\\Interfaces\\IProductRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanAPI.Domain\\Interfaces\\IProductRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Infrastructure\\Repositorie\\ProductRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanAPI.Infrastructure\\Repositorie\\ProductRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Application\\Services\\Interfaces\\IProductService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanAPI.Application\\Services\\Interfaces\\IProductService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Application\\DTOs\\Product\\ProductDtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanAPI.Application\\DTOs\\Product\\ProductDtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Domain\\Common\\ProductQueryParams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanAPI.Domain\\Common\\ProductQueryParams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Domain\\Entities\\Review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanAPI.Domain\\Entities\\Review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Domain\\Enums\\ProductRatings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanAPI.Domain\\Enums\\ProductRatings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Domain\\Entities\\CartItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanAPI.Domain\\Entities\\CartItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Application\\DTOs\\Review\\ReviewDtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanAPI.Application\\DTOs\\Review\\ReviewDtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Domain\\Entities\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanAPI.Domain\\Entities\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Domain\\Entities\\OrderItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanAPI.Domain\\Entities\\OrderItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Domain\\Entities\\Order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanAPI.Domain\\Entities\\Order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Domain\\Entities\\Cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanAPI.Domain\\Entities\\Cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Infrastructure\\Migrations\\20260528111559_AddStocktoProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanAPI.Infrastructure\\Migrations\\20260528111559_AddStocktoProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Application\\DTOs\\Auth\\AuthDtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanAPI.Application\\DTOs\\Auth\\AuthDtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Infrastructure\\ECommerce.Infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanAPI.Infrastructure\\ECommerce.Infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Domain\\ECommerce.Domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanAPI.Domain\\ECommerce.Domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Application\\ECommerce.Application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanAPI.Application\\ECommerce.Application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Application\\Common\\PagedResult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanAPI.Application\\Common\\PagedResult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Infrastructure\\Repositorie\\UserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanAPI.Infrastructure\\Repositorie\\UserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Application\\Services\\AuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanAPI.Application\\Services\\AuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Infrastructure\\Migrations\\20260524175322_InitialCleanApi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanAPI.Infrastructure\\Migrations\\20260524175322_InitialCleanApi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.API\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanAPI.API\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.API\\Middleware\\ExceptionMiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanAPI.API\\Middleware\\ExceptionMiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.API\\Extensions\\ClaimsPrincipalExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanAPI.API\\Extensions\\ClaimsPrincipalExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.API\\ECommerce.API.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanAPI.API\\ECommerce.API.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Domain\\Interfaces\\IReviewRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanAPI.Domain\\Interfaces\\IReviewRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Infrastructure\\Service\\TokenService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanAPI.Infrastructure\\Service\\TokenService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Infrastructure\\Repositorie\\ReviewRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanAPI.Infrastructure\\Repositorie\\ReviewRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Application\\Services\\Interfaces\\ITokenService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanAPI.Application\\Services\\Interfaces\\ITokenService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Application\\Services\\Interfaces\\IAuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanAPI.Application\\Services\\Interfaces\\IAuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Domain\\Interfaces\\IUserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanAPI.Domain\\Interfaces\\IUserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Application\\Exceptions\\ForbiddenException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanAPI.Application\\Exceptions\\ForbiddenException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Application\\Exceptions\\BadRequestException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanAPI.Application\\Exceptions\\BadRequestException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Application\\Exceptions\\NotFoundException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CleanAPI.Application\\Exceptions\\NotFoundException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -298,880 +42,111 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\ECommerce.API\\appsettings.json",
-              "RelativeDocumentMoniker": "ECommerce.API\\appsettings.json",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\ECommerce.API\\appsettings.json",
-              "RelativeToolTip": "ECommerce.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-30T17:53:26.206Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "20260530171604_FixOrderStatusType.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\ECommerce.Infrastructure\\Migrations\\20260530171604_FixOrderStatusType.cs",
-              "RelativeDocumentMoniker": "ECommerce.Infrastructure\\Migrations\\20260530171604_FixOrderStatusType.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\ECommerce.Infrastructure\\Migrations\\20260530171604_FixOrderStatusType.cs",
-              "RelativeToolTip": "ECommerce.Infrastructure\\Migrations\\20260530171604_FixOrderStatusType.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "IReviewRepository.cs",
+              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\ECommerce.Domain\\Interfaces\\IReviewRepository.cs",
+              "RelativeDocumentMoniker": "ECommerce.Domain\\Interfaces\\IReviewRepository.cs",
+              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\ECommerce.Domain\\Interfaces\\IReviewRepository.cs",
+              "RelativeToolTip": "ECommerce.Domain\\Interfaces\\IReviewRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-30T17:16:04.419Z",
+              "WhenOpened": "2026-06-06T12:47:16.593Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\ECommerce.Infrastructure\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "ECommerce.Infrastructure\\Data\\AppDbContext.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\ECommerce.Infrastructure\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "ECommerce.Infrastructure\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAGUAAAAAAAAAAAAQwHEAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-30T17:14:07.358Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "OrderService.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\ECommerce.Application\\Services\\OrderService.cs",
-              "RelativeDocumentMoniker": "ECommerce.Application\\Services\\OrderService.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\ECommerce.Application\\Services\\OrderService.cs",
-              "RelativeToolTip": "ECommerce.Application\\Services\\OrderService.cs",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAqwG0AAAAkAAAAAAAAAA==",
+              "Title": "ReviewDtos.cs",
+              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\ECommerce.Application\\DTOs\\Review\\ReviewDtos.cs",
+              "RelativeDocumentMoniker": "ECommerce.Application\\DTOs\\Review\\ReviewDtos.cs",
+              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\ECommerce.Application\\DTOs\\Review\\ReviewDtos.cs",
+              "RelativeToolTip": "ECommerce.Application\\DTOs\\Review\\ReviewDtos.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA9wBAAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-30T10:52:12.758Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "OrderRepository.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\ECommerce.Infrastructure\\Repositorie\\OrderRepository.cs",
-              "RelativeDocumentMoniker": "ECommerce.Infrastructure\\Repositorie\\OrderRepository.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\ECommerce.Infrastructure\\Repositorie\\OrderRepository.cs",
-              "RelativeToolTip": "ECommerce.Infrastructure\\Repositorie\\OrderRepository.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAqwDcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-30T10:38:55.34Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "OrderDtos.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\ECommerce.Application\\DTOs\\Order\\OrderDtos.cs",
-              "RelativeDocumentMoniker": "ECommerce.Application\\DTOs\\Order\\OrderDtos.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\ECommerce.Application\\DTOs\\Order\\OrderDtos.cs",
-              "RelativeToolTip": "ECommerce.Application\\DTOs\\Order\\OrderDtos.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAwwBMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-30T06:58:15.038Z",
+              "WhenOpened": "2026-06-06T12:40:26.723Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\ECommerce.API\\Controllers\\OrderController.cs",
-              "RelativeDocumentMoniker": "ECommerce.API\\Controllers\\OrderController.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\ECommerce.API\\Controllers\\OrderController.cs",
-              "RelativeToolTip": "ECommerce.API\\Controllers\\OrderController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwBUAAABcAAAAAAAAAA==",
+              "Title": "ReviewRepository.cs",
+              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\ECommerce.Infrastructure\\Repositorie\\ReviewRepository.cs",
+              "RelativeDocumentMoniker": "ECommerce.Infrastructure\\Repositorie\\ReviewRepository.cs",
+              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\ECommerce.Infrastructure\\Repositorie\\ReviewRepository.cs",
+              "RelativeToolTip": "ECommerce.Infrastructure\\Repositorie\\ReviewRepository.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwDIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-30T11:41:04.739Z",
+              "WhenOpened": "2026-06-06T12:38:08.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReviewService.cs",
+              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\ECommerce.Application\\Services\\ReviewService.cs",
+              "RelativeDocumentMoniker": "ECommerce.Application\\Services\\ReviewService.cs",
+              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\ECommerce.Application\\Services\\ReviewService.cs",
+              "RelativeToolTip": "ECommerce.Application\\Services\\ReviewService.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAiwEoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T12:34:55.376Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "OrderStatus.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\ECommerce.Domain\\Enums\\OrderStatus.cs",
-              "RelativeDocumentMoniker": "ECommerce.Domain\\Enums\\OrderStatus.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\ECommerce.Domain\\Enums\\OrderStatus.cs",
-              "RelativeToolTip": "ECommerce.Domain\\Enums\\OrderStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\ECommerce.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ECommerce.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\ECommerce.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ECommerce.API\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAcwCMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-30T06:51:26.665Z",
+              "WhenOpened": "2026-06-06T12:03:10.079Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IOrderRepository.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\ECommerce.Domain\\Interfaces\\IOrderRepository.cs",
-              "RelativeDocumentMoniker": "ECommerce.Domain\\Interfaces\\IOrderRepository.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\ECommerce.Domain\\Interfaces\\IOrderRepository.cs",
-              "RelativeToolTip": "ECommerce.Domain\\Interfaces\\IOrderRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ReviewsController.cs",
+              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\ECommerce.API\\Controllers\\ReviewsController.cs",
+              "RelativeDocumentMoniker": "ECommerce.API\\Controllers\\ReviewsController.cs",
+              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\ECommerce.API\\Controllers\\ReviewsController.cs",
+              "RelativeToolTip": "ECommerce.API\\Controllers\\ReviewsController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAgwCoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-30T06:53:44.22Z"
+              "WhenOpened": "2026-06-06T12:03:41.122Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IOrderService.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\ECommerce.Application\\Services\\Interfaces\\IOrderService.cs",
-              "RelativeDocumentMoniker": "ECommerce.Application\\Services\\Interfaces\\IOrderService.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\ECommerce.Application\\Services\\Interfaces\\IOrderService.cs",
-              "RelativeToolTip": "ECommerce.Application\\Services\\Interfaces\\IOrderService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-30T07:08:13.885Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Order.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\ECommerce.Domain\\Entities\\Order.cs",
-              "RelativeDocumentMoniker": "ECommerce.Domain\\Entities\\Order.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\ECommerce.Domain\\Entities\\Order.cs",
-              "RelativeToolTip": "ECommerce.Domain\\Entities\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-30T06:49:22.037Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 6,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\ECommerce.Application\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "ECommerce.Application\\DependencyInjection.cs",
               "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\ECommerce.Application\\DependencyInjection.cs",
               "RelativeToolTip": "ECommerce.Application\\DependencyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwBgAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-30T04:19:00.55Z"
+              "WhenOpened": "2026-06-06T12:21:09.591Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 7,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\ECommerce.Infrastructure\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "ECommerce.Infrastructure\\DependencyInjection.cs",
               "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\ECommerce.Infrastructure\\DependencyInjection.cs",
               "RelativeToolTip": "ECommerce.Infrastructure\\DependencyInjection.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-30T04:17:26.089Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CartController.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\ECommerce.API\\Controllers\\CartController.cs",
-              "RelativeDocumentMoniker": "ECommerce.API\\Controllers\\CartController.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\ECommerce.API\\Controllers\\CartController.cs",
-              "RelativeToolTip": "ECommerce.API\\Controllers\\CartController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwB4AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-30T04:19:44.671Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\ECommerce.API\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "ECommerce.API\\Controllers\\CategoriesController.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\ECommerce.API\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "ECommerce.API\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAwA8AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-29T07:41:45.859Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\ECommerce.Application\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "ECommerce.Application\\Services\\ProductService.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\ECommerce.Application\\Services\\ProductService.cs",
-              "RelativeToolTip": "ECommerce.Application\\Services\\ProductService.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAEoAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-29T07:41:01.511Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "CategoryService.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\ECommerce.Application\\Services\\CategoryService.cs",
-              "RelativeDocumentMoniker": "ECommerce.Application\\Services\\CategoryService.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\ECommerce.Application\\Services\\CategoryService.cs",
-              "RelativeToolTip": "ECommerce.Application\\Services\\CategoryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-29T07:40:14.04Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "CartService.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\ECommerce.Application\\Services\\CartService.cs",
-              "RelativeDocumentMoniker": "ECommerce.Application\\Services\\CartService.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\ECommerce.Application\\Services\\CartService.cs",
-              "RelativeToolTip": "ECommerce.Application\\Services\\CartService.cs",
-              "ViewState": "AgIAAIUAAAAAAAAAAAAowJgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-29T11:56:41.024Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ICartService.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\ECommerce.Application\\Services\\Interfaces\\ICartService.cs",
-              "RelativeDocumentMoniker": "ECommerce.Application\\Services\\Interfaces\\ICartService.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\ECommerce.Application\\Services\\Interfaces\\ICartService.cs",
-              "RelativeToolTip": "ECommerce.Application\\Services\\Interfaces\\ICartService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-29T11:50:29.18Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ICartRepository.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\ECommerce.Domain\\Interfaces\\ICartRepository.cs",
-              "RelativeDocumentMoniker": "ECommerce.Domain\\Interfaces\\ICartRepository.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\ECommerce.Domain\\Interfaces\\ICartRepository.cs",
-              "RelativeToolTip": "ECommerce.Domain\\Interfaces\\ICartRepository.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAASwBEAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-29T11:17:48.595Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "CartDtos.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\ECommerce.Application\\DTOs\\Cart\\CartDtos.cs",
-              "RelativeDocumentMoniker": "ECommerce.Application\\DTOs\\Cart\\CartDtos.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\ECommerce.Application\\DTOs\\Cart\\CartDtos.cs",
-              "RelativeToolTip": "ECommerce.Application\\DTOs\\Cart\\CartDtos.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAiwBcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-29T11:33:15.857Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "CartRepository.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\ECommerce.Infrastructure\\Repositorie\\CartRepository.cs",
-              "RelativeDocumentMoniker": "ECommerce.Infrastructure\\Repositorie\\CartRepository.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\ECommerce.Infrastructure\\Repositorie\\CartRepository.cs",
-              "RelativeToolTip": "ECommerce.Infrastructure\\Repositorie\\CartRepository.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAgwEYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-30T03:55:24.078Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "ProductDtos.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\ECommerce.Application\\DTOs\\Product\\ProductDtos.cs",
-              "RelativeDocumentMoniker": "ECommerce.Application\\DTOs\\Product\\ProductDtos.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\ECommerce.Application\\DTOs\\Product\\ProductDtos.cs",
-              "RelativeToolTip": "ECommerce.Application\\DTOs\\Product\\ProductDtos.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAASwBIAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-30T03:41:32.318Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Cart.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\ECommerce.Domain\\Entities\\Cart.cs",
-              "RelativeDocumentMoniker": "ECommerce.Domain\\Entities\\Cart.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\ECommerce.Domain\\Entities\\Cart.cs",
-              "RelativeToolTip": "ECommerce.Domain\\Entities\\Cart.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-29T11:29:47.778Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Domain\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "CleanAPI.Domain\\Entities\\Product.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Domain\\Entities\\Product.cs",
-              "RelativeToolTip": "CleanAPI.Domain\\Entities\\Product.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T14:27:05.592Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Category.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Domain\\Entities\\Category.cs",
-              "RelativeDocumentMoniker": "CleanAPI.Domain\\Entities\\Category.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Domain\\Entities\\Category.cs",
-              "RelativeToolTip": "CleanAPI.Domain\\Entities\\Category.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T11:59:34.206Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "ICategoryService.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Application\\Services\\Interfaces\\ICategoryService.cs",
-              "RelativeDocumentMoniker": "CleanAPI.Application\\Services\\Interfaces\\ICategoryService.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Application\\Services\\Interfaces\\ICategoryService.cs",
-              "RelativeToolTip": "CleanAPI.Application\\Services\\Interfaces\\ICategoryService.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAwwA0AAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T18:01:46.452Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "CategoryService.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Application\\Services\\CategoryService.cs",
-              "RelativeDocumentMoniker": "CleanAPI.Application\\Services\\CategoryService.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Application\\Services\\CategoryService.cs",
-              "RelativeToolTip": "CleanAPI.Application\\Services\\CategoryService.cs",
-              "ViewState": "AgIAAGgAAAAAAAAAAAAAAGcAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T18:06:37.925Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.API\\appsettings.json",
-              "RelativeDocumentMoniker": "CleanAPI.API\\appsettings.json",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.API\\appsettings.json",
-              "RelativeToolTip": "CleanAPI.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-24T15:59:26.856Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Application\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "CleanAPI.Application\\DependencyInjection.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Application\\DependencyInjection.cs",
-              "RelativeToolTip": "CleanAPI.Application\\DependencyInjection.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T14:46:09.128Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Infrastructure\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "CleanAPI.Infrastructure\\DependencyInjection.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Infrastructure\\DependencyInjection.cs",
-              "RelativeToolTip": "CleanAPI.Infrastructure\\DependencyInjection.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAmwCsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T15:39:28.078Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Infrastructure\\Repositorie\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "CleanAPI.Infrastructure\\Repositorie\\CategoryRepository.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Infrastructure\\Repositorie\\CategoryRepository.cs",
-              "RelativeToolTip": "CleanAPI.Infrastructure\\Repositorie\\CategoryRepository.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAUwDAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-29T05:02:43.705Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "CategoryDtos.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Application\\DTOs\\Category\\CategoryDtos.cs",
-              "RelativeDocumentMoniker": "CleanAPI.Application\\DTOs\\Category\\CategoryDtos.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Application\\DTOs\\Category\\CategoryDtos.cs",
-              "RelativeToolTip": "CleanAPI.Application\\DTOs\\Category\\CategoryDtos.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAA7wCMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T17:42:14.465Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Domain\\Interfaces\\ICategoryRepository.cs",
-              "RelativeDocumentMoniker": "CleanAPI.Domain\\Interfaces\\ICategoryRepository.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Domain\\Interfaces\\ICategoryRepository.cs",
-              "RelativeToolTip": "CleanAPI.Domain\\Interfaces\\ICategoryRepository.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAowBQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T17:28:40.442Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Application\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "CleanAPI.Application\\Services\\ProductService.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Application\\Services\\ProductService.cs",
-              "RelativeToolTip": "CleanAPI.Application\\Services\\ProductService.cs",
-              "ViewState": "AgIAAGMAAAAAAAAAAAAUwHYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T15:02:27.125Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Domain\\Interfaces\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "CleanAPI.Domain\\Interfaces\\IProductRepository.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Domain\\Interfaces\\IProductRepository.cs",
-              "RelativeToolTip": "CleanAPI.Domain\\Interfaces\\IProductRepository.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBMAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T14:28:08.644Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Infrastructure\\Repositorie\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "CleanAPI.Infrastructure\\Repositorie\\ProductRepository.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Infrastructure\\Repositorie\\ProductRepository.cs",
-              "RelativeToolTip": "CleanAPI.Infrastructure\\Repositorie\\ProductRepository.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAADEAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T15:33:56.456Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Application\\Services\\Interfaces\\IProductService.cs",
-              "RelativeDocumentMoniker": "CleanAPI.Application\\Services\\Interfaces\\IProductService.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Application\\Services\\Interfaces\\IProductService.cs",
-              "RelativeToolTip": "CleanAPI.Application\\Services\\Interfaces\\IProductService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAowBIAAABbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T14:56:30.869Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "ProductDtos.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Application\\DTOs\\Product\\ProductDtos.cs",
-              "RelativeDocumentMoniker": "CleanAPI.Application\\DTOs\\Product\\ProductDtos.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Application\\DTOs\\Product\\ProductDtos.cs",
-              "RelativeToolTip": "CleanAPI.Application\\DTOs\\Product\\ProductDtos.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA7wB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T14:51:22.106Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "ProductQueryParams.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Domain\\Common\\ProductQueryParams.cs",
-              "RelativeDocumentMoniker": "CleanAPI.Domain\\Common\\ProductQueryParams.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Domain\\Common\\ProductQueryParams.cs",
-              "RelativeToolTip": "CleanAPI.Domain\\Common\\ProductQueryParams.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA1wBgAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T17:29:18.882Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "Review.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Domain\\Entities\\Review.cs",
-              "RelativeDocumentMoniker": "CleanAPI.Domain\\Entities\\Review.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Domain\\Entities\\Review.cs",
-              "RelativeToolTip": "CleanAPI.Domain\\Entities\\Review.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T14:36:41.465Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "ProductRatings.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Domain\\Enums\\ProductRatings.cs",
-              "RelativeDocumentMoniker": "CleanAPI.Domain\\Enums\\ProductRatings.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Domain\\Enums\\ProductRatings.cs",
-              "RelativeToolTip": "CleanAPI.Domain\\Enums\\ProductRatings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T14:39:04.875Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "CartItem.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Domain\\Entities\\CartItem.cs",
-              "RelativeDocumentMoniker": "CleanAPI.Domain\\Entities\\CartItem.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Domain\\Entities\\CartItem.cs",
-              "RelativeToolTip": "CleanAPI.Domain\\Entities\\CartItem.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAIwBMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T12:07:29.441Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "ReviewDtos.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Application\\DTOs\\Review\\ReviewDtos.cs",
-              "RelativeDocumentMoniker": "CleanAPI.Application\\DTOs\\Review\\ReviewDtos.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Application\\DTOs\\Review\\ReviewDtos.cs",
-              "RelativeToolTip": "CleanAPI.Application\\DTOs\\Review\\ReviewDtos.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAmwA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T14:52:49.451Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Domain\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "CleanAPI.Domain\\Entities\\User.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Domain\\Entities\\User.cs",
-              "RelativeToolTip": "CleanAPI.Domain\\Entities\\User.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA7wBMAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T14:34:48.232Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "OrderItem.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Domain\\Entities\\OrderItem.cs",
-              "RelativeDocumentMoniker": "CleanAPI.Domain\\Entities\\OrderItem.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Domain\\Entities\\OrderItem.cs",
-              "RelativeToolTip": "CleanAPI.Domain\\Entities\\OrderItem.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAADwvw4AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T12:16:59.458Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "Order.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Domain\\Entities\\Order.cs",
-              "RelativeDocumentMoniker": "CleanAPI.Domain\\Entities\\Order.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Domain\\Entities\\Order.cs",
-              "RelativeToolTip": "CleanAPI.Domain\\Entities\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAgwA4AAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T12:14:15.125Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "Cart.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Domain\\Entities\\Cart.cs",
-              "RelativeDocumentMoniker": "CleanAPI.Domain\\Entities\\Cart.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Domain\\Entities\\Cart.cs",
-              "RelativeToolTip": "CleanAPI.Domain\\Entities\\Cart.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T12:05:11.556Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "20260528111559_AddStocktoProduct.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Infrastructure\\Migrations\\20260528111559_AddStocktoProduct.cs",
-              "RelativeDocumentMoniker": "CleanAPI.Infrastructure\\Migrations\\20260528111559_AddStocktoProduct.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Infrastructure\\Migrations\\20260528111559_AddStocktoProduct.cs",
-              "RelativeToolTip": "CleanAPI.Infrastructure\\Migrations\\20260528111559_AddStocktoProduct.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T11:15:59.721Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "AuthDtos.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Application\\DTOs\\Auth\\AuthDtos.cs",
-              "RelativeDocumentMoniker": "CleanAPI.Application\\DTOs\\Auth\\AuthDtos.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Application\\DTOs\\Auth\\AuthDtos.cs",
-              "RelativeToolTip": "CleanAPI.Application\\DTOs\\Auth\\AuthDtos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T14:49:45.208Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "ECommerce.Infrastructure.csproj",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Infrastructure\\ECommerce.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "CleanAPI.Infrastructure\\ECommerce.Infrastructure.csproj",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Infrastructure\\ECommerce.Infrastructure.csproj",
-              "RelativeToolTip": "CleanAPI.Infrastructure\\ECommerce.Infrastructure.csproj",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAYwBIAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-05-24T17:06:13.116Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "ECommerce.Domain.csproj",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Domain\\ECommerce.Domain.csproj",
-              "RelativeDocumentMoniker": "CleanAPI.Domain\\ECommerce.Domain.csproj",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Domain\\ECommerce.Domain.csproj",
-              "RelativeToolTip": "CleanAPI.Domain\\ECommerce.Domain.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-05-24T14:42:51.751Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "ECommerce.Application.csproj",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Application\\ECommerce.Application.csproj",
-              "RelativeDocumentMoniker": "CleanAPI.Application\\ECommerce.Application.csproj",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Application\\ECommerce.Application.csproj",
-              "RelativeToolTip": "CleanAPI.Application\\ECommerce.Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-05-24T14:43:06.897Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "PagedResult.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Application\\Common\\PagedResult.cs",
-              "RelativeDocumentMoniker": "CleanAPI.Application\\Common\\PagedResult.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Application\\Common\\PagedResult.cs",
-              "RelativeToolTip": "CleanAPI.Application\\Common\\PagedResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T04:26:33.797Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 56,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Infrastructure\\Repositorie\\UserRepository.cs",
-              "RelativeDocumentMoniker": "CleanAPI.Infrastructure\\Repositorie\\UserRepository.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Infrastructure\\Repositorie\\UserRepository.cs",
-              "RelativeToolTip": "CleanAPI.Infrastructure\\Repositorie\\UserRepository.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAuwCgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T15:35:25.839Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 57,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Application\\Services\\AuthService.cs",
-              "RelativeDocumentMoniker": "CleanAPI.Application\\Services\\AuthService.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Application\\Services\\AuthService.cs",
-              "RelativeToolTip": "CleanAPI.Application\\Services\\AuthService.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAAwE4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T14:57:21.809Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 58,
-              "Title": "20260524175322_InitialCleanApi.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Infrastructure\\Migrations\\20260524175322_InitialCleanApi.cs",
-              "RelativeDocumentMoniker": "CleanAPI.Infrastructure\\Migrations\\20260524175322_InitialCleanApi.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Infrastructure\\Migrations\\20260524175322_InitialCleanApi.cs",
-              "RelativeToolTip": "CleanAPI.Infrastructure\\Migrations\\20260524175322_InitialCleanApi.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T17:53:22.133Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 59,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.API\\Program.cs",
-              "RelativeDocumentMoniker": "CleanAPI.API\\Program.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.API\\Program.cs",
-              "RelativeToolTip": "CleanAPI.API\\Program.cs",
-              "ViewState": "AgIAAGcAAAAAAAAAAAAAwHUAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T15:59:43.22Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "20260524173133_InitialCreate.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Infrastructure\\Migrations\\20260524173133_InitialCreate.cs",
-              "RelativeDocumentMoniker": "CleanAPI.Infrastructure\\Migrations\\20260524173133_InitialCreate.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Infrastructure\\Migrations\\20260524173133_InitialCreate.cs",
-              "RelativeToolTip": "CleanAPI.Infrastructure\\Migrations\\20260524173133_InitialCreate.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T17:31:34.037Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "20260524172737_AddProductsTable.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Infrastructure\\Migrations\\20260524172737_AddProductsTable.cs",
-              "RelativeDocumentMoniker": "CleanAPI.Infrastructure\\Migrations\\20260524172737_AddProductsTable.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Infrastructure\\Migrations\\20260524172737_AddProductsTable.cs",
-              "RelativeToolTip": "CleanAPI.Infrastructure\\Migrations\\20260524172737_AddProductsTable.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T17:27:37.195Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 60,
-              "Title": "ExceptionMiddleware.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.API\\Middleware\\ExceptionMiddleware.cs",
-              "RelativeDocumentMoniker": "CleanAPI.API\\Middleware\\ExceptionMiddleware.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.API\\Middleware\\ExceptionMiddleware.cs",
-              "RelativeToolTip": "CleanAPI.API\\Middleware\\ExceptionMiddleware.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T15:53:59.137Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 61,
-              "Title": "ClaimsPrincipalExtensions.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.API\\Extensions\\ClaimsPrincipalExtensions.cs",
-              "RelativeDocumentMoniker": "CleanAPI.API\\Extensions\\ClaimsPrincipalExtensions.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.API\\Extensions\\ClaimsPrincipalExtensions.cs",
-              "RelativeToolTip": "CleanAPI.API\\Extensions\\ClaimsPrincipalExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T15:53:06.425Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 62,
-              "Title": "ECommerce.API.csproj",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.API\\ECommerce.API.csproj",
-              "RelativeDocumentMoniker": "CleanAPI.API\\ECommerce.API.csproj",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.API\\ECommerce.API.csproj",
-              "RelativeToolTip": "CleanAPI.API\\ECommerce.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-05-24T15:52:31.433Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 63,
-              "Title": "IReviewRepository.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Domain\\Interfaces\\IReviewRepository.cs",
-              "RelativeDocumentMoniker": "CleanAPI.Domain\\Interfaces\\IReviewRepository.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Domain\\Interfaces\\IReviewRepository.cs",
-              "RelativeToolTip": "CleanAPI.Domain\\Interfaces\\IReviewRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T15:47:19.149Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 64,
-              "Title": "TokenService.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Infrastructure\\Service\\TokenService.cs",
-              "RelativeDocumentMoniker": "CleanAPI.Infrastructure\\Service\\TokenService.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Infrastructure\\Service\\TokenService.cs",
-              "RelativeToolTip": "CleanAPI.Infrastructure\\Service\\TokenService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAIBJwBMAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T15:37:01.6Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 65,
-              "Title": "ReviewRepository.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Infrastructure\\Repositorie\\ReviewRepository.cs",
-              "RelativeDocumentMoniker": "CleanAPI.Infrastructure\\Repositorie\\ReviewRepository.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Infrastructure\\Repositorie\\ReviewRepository.cs",
-              "RelativeToolTip": "CleanAPI.Infrastructure\\Repositorie\\ReviewRepository.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAwwAgAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T15:36:00.381Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 66,
-              "Title": "ITokenService.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Application\\Services\\Interfaces\\ITokenService.cs",
-              "RelativeDocumentMoniker": "CleanAPI.Application\\Services\\Interfaces\\ITokenService.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Application\\Services\\Interfaces\\ITokenService.cs",
-              "RelativeToolTip": "CleanAPI.Application\\Services\\Interfaces\\ITokenService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T14:54:47.054Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 67,
-              "Title": "IAuthService.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Application\\Services\\Interfaces\\IAuthService.cs",
-              "RelativeDocumentMoniker": "CleanAPI.Application\\Services\\Interfaces\\IAuthService.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Application\\Services\\Interfaces\\IAuthService.cs",
-              "RelativeToolTip": "CleanAPI.Application\\Services\\Interfaces\\IAuthService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T14:55:54.986Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 68,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Domain\\Interfaces\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "CleanAPI.Domain\\Interfaces\\IUserRepository.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Domain\\Interfaces\\IUserRepository.cs",
-              "RelativeToolTip": "CleanAPI.Domain\\Interfaces\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T14:41:22.635Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 69,
-              "Title": "ForbiddenException.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Application\\Exceptions\\ForbiddenException.cs",
-              "RelativeDocumentMoniker": "CleanAPI.Application\\Exceptions\\ForbiddenException.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Application\\Exceptions\\ForbiddenException.cs",
-              "RelativeToolTip": "CleanAPI.Application\\Exceptions\\ForbiddenException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T14:47:12.552Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 70,
-              "Title": "BadRequestException.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Application\\Exceptions\\BadRequestException.cs",
-              "RelativeDocumentMoniker": "CleanAPI.Application\\Exceptions\\BadRequestException.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Application\\Exceptions\\BadRequestException.cs",
-              "RelativeToolTip": "CleanAPI.Application\\Exceptions\\BadRequestException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T14:47:03.56Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 71,
-              "Title": "NotFoundException.cs",
-              "DocumentMoniker": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Application\\Exceptions\\NotFoundException.cs",
-              "RelativeDocumentMoniker": "CleanAPI.Application\\Exceptions\\NotFoundException.cs",
-              "ToolTip": "D:\\D\\ASP.Net\\CleanAPI\\CleanAPI.Application\\Exceptions\\NotFoundException.cs",
-              "RelativeToolTip": "CleanAPI.Application\\Exceptions\\NotFoundException.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAIBJwA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T14:46:54.604Z"
+              "WhenOpened": "2026-06-06T12:20:38.136Z",
+              "EditorCaption": ""
             }
           ]
         }

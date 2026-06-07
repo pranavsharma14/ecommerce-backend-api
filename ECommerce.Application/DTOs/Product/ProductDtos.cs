@@ -21,6 +21,7 @@ namespace CleanAPI.Application.DTOs.Product
         public string ProductName { get; set; } = string.Empty;
         public decimal Price { get; set; }
         public int CategoryId { get; set; }
+        public string? CategoryName { get; set; }
         public int Stock { get; set; }
     }
 
@@ -39,6 +40,7 @@ namespace CleanAPI.Application.DTOs.Product
         public string ProductName { get; set; } = string.Empty;
         public decimal Price { get; set; }
         public int CategoryId { get; set; }
+        public string? CategoryName { get; set; }
         public int Stock { get; set; }
         public List<ReviewResponseDto> Reviews { get; set; } = new List<ReviewResponseDto>();
     }

@@ -21,14 +21,18 @@ namespace CleanAPI.Infrastructure.Repositorie
         }
 
         public async Task<IEnumerable<Product>> GetAllAsync()
-            => await _context.Products.ToListAsync();
+            => await _context.Products
+            .Include(p => p.Category)
+            .ToListAsync();
 
         public async Task<Product?> GetByIdAsync(int id)
             => await _context.Products.FindAsync(id);
 
         public async Task<Product?> GetWithReviewsAsync(int id)
             => await _context.Products
+                .Include(p => p.Category)
                 .Include(p => p.Reviews)
+                    .ThenInclude(r => r.User)
                 .FirstOrDefaultAsync(p => p.Id == id);
 
         public async Task<IEnumerable<Product>> GetByUserIdAsync(int userId)
@@ -61,16 +65,18 @@ namespace CleanAPI.Infrastructure.Repositorie
 
         public async Task<(IEnumerable<Product> Products, int TotalCount)> GetPagedAsync(ProductQueryParams queryParams)
         {
-            var query = _context.Products.AsQueryable();
+            var query = _context.Products
+                .Include(p => p.Category)
+                .AsQueryable();
 
             if(!string.IsNullOrWhiteSpace(queryParams.Search))
             {
                 var search = queryParams.Search.ToLower();
                 query = query.Where(p =>
-                p.ProductName != null &&
-                p.ProductName.ToLower().Contains(search) ||
-                p.Category != null &&
-                p.Category.CategoryName.ToLower().Contains(search));
+                (p.ProductName != null &&
+                p.ProductName.ToLower().Contains(search)) ||
+                (p.Category != null &&
+                p.Category.CategoryName.ToLower().Contains(search)));
             }
 
             if(queryParams.CategoryId.HasValue)
@@ -93,7 +99,7 @@ namespace CleanAPI.Infrastructure.Repositorie
 
             var totalCount = await query.CountAsync();
 
-            query = queryParams.SortBy.ToLower() switch
+            query = queryParams.SortBy?.ToLower() switch
             {
                 "name" => queryParams.SortOrder == "desc" ?
                 query.OrderByDescending(p => p.ProductName) :
@@ -104,8 +110,8 @@ namespace CleanAPI.Infrastructure.Repositorie
                 query.OrderBy(p => p.Price),
 
                 "category" => queryParams.SortOrder == "desc" ?
-                query.OrderByDescending(p => p.Category) :
-                query.OrderBy(p => p.Category),
+                query.OrderByDescending(p => p.Category.CategoryName) :
+                query.OrderBy(p => p.Category.CategoryName),
 
                 _ => query.OrderBy(p => p.Id)
             };

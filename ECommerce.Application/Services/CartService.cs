@@ -52,6 +52,9 @@ namespace ECommerce.Application.Services
         }
         public async Task<CartResponseDto> AddToCartAsync(int userId, AddToCartDto dto)
         {
+            if (dto.Quantity <= 0)
+                throw new BadRequestException("Quantity must be greater than 0");
+
             var product = await _productRepository.GetByIdAsync(dto.ProductId);
 
             if (product == null)
@@ -102,6 +105,9 @@ namespace ECommerce.Application.Services
 
         public async Task<CartItemResponseDto> UpdateCartItemAsync(int userId, int cartItemId, UpdateCartItemDto dto)
         {
+            if (dto.Quantity <= 0)
+                throw new BadRequestException("Quantity must be greater than 0");
+
             var cart = await _cartRepository.GetCartByUserIdAsync(userId);
             if (cart == null)
                 throw new NotFoundException("Cart not found");
@@ -112,6 +118,9 @@ namespace ECommerce.Application.Services
                 throw new NotFoundException("Cart Item not found");
 
             var product = await _productRepository.GetByIdAsync(cartItem.ProductId);
+
+            if (product == null)
+                throw new NotFoundException("Product", cartItem.ProductId);
 
             if (product.Stock < dto.Quantity)
                 throw new BadRequestException("Insufficient Stock");

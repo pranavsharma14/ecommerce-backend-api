@@ -37,6 +37,7 @@
                 return Ok(placed);
             }
             [HttpPut("{orderId}")]
+            [Authorize(Roles = "Admin")]
             public async Task<ActionResult<OrderResponseDto>> UpdateOrderStatusAsync(int orderId, [FromBody] UpdateOrderStatusDto dto)
             {
                 var update = await _orderService.UpdateOrderStatusAsync(orderId, dto);

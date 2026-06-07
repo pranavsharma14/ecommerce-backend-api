@@ -13,5 +13,6 @@ namespace CleanAPI.Domain.Interfaces
         Task<Review?> GetByIdAsync(int id);
         Task<Review> AddAsync(Review review);
         Task DeleteAsync(Review review);
+        Task<Review?> GetByIdWithUserAsync(int id);
     }
 }

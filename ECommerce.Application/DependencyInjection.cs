@@ -22,6 +22,7 @@ namespace CleanAPI.Application
             services.AddScoped<ICategoryService, CategoryService>();
             services.AddScoped<ICartService, CartService>();
             services.AddScoped<IOrderService, OrderService>();
+            services.AddScoped<IReviewService, ReviewService>();
 
             return services;
         }
