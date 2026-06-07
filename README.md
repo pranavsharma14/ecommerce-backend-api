@@ -38,11 +38,24 @@ and Clean Architecture.
 2. Update connection string in appsettings.json
    "DefaultConnection": "Server=localhost;Database=CleanAPIDb;..."
 
-3. Run migrations
+3. Configure JWT secret key
+   - For local development, use user secrets:
+     dotnet user-secrets set "JwtSettings:SecretKey" "YOUR_SECRET_KEY"
+   - For production or hosting, use environment variables:
+     Windows: setx JwtSettings__SecretKey "YOUR_SECRET_KEY"
+     Linux/macOS: export JwtSettings__SecretKey="YOUR_SECRET_KEY"
+
+4. Run migrations
    Update-Database -StartupProject ECommerce.API
 
-4. Run the project
+5. Run the project
    dotnet run --project ECommerce.API
+
+## JWT Secret and Existing Users
+- The JWT secret is loaded from `JwtSettings:SecretKey`.
+- In development, the project uses user secrets outside the repository.
+- Changing the secret does not affect user records in the database.
+- Changing the secret invalidates previously issued JWT tokens, so users must log in again.
 
 ## API Endpoints
 
