@@ -1,5 +1,0 @@
-2026-05-26 22:44:54 [INF] HTTP GET /api/Products/paged responded 200 in 10215.0002 ms
-2026-05-26 22:45:32 [INF] HTTP GET /api/Products/paged responded 200 in 111.4457 ms
-2026-05-26 22:45:45 [INF] HTTP GET /api/Products/paged responded 200 in 169.4799 ms
-2026-05-26 22:46:06 [INF] HTTP GET /api/Products/paged responded 200 in 22.3858 ms
-2026-05-26 22:47:38 [INF] HTTP GET /api/Products/paged responded 200 in 184.1493 ms

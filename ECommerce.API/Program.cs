@@ -76,6 +76,12 @@ builder.Services.AddAuthentication(options =>
 })
 .AddJwtBearer(options =>
 {
+    var jwtSecretKey = builder.Configuration["JwtSettings:SecretKey"];
+
+    if (string.IsNullOrWhiteSpace(jwtSecretKey))
+        throw new InvalidOperationException(
+            "JwtSettings:SecretKey is required. Set it with user-secrets or an environment variable.");
+
     options.MapInboundClaims = false;
     options.RequireHttpsMetadata = false;
     options.SaveToken = true;
@@ -91,8 +97,7 @@ builder.Services.AddAuthentication(options =>
         ValidIssuer = builder.Configuration["JwtSettings:Issuer"],
         ValidAudience = builder.Configuration["JwtSettings:Audience"],
         IssuerSigningKey = new SymmetricSecurityKey(
-            Encoding.UTF8.GetBytes(
-                builder.Configuration["JwtSettings:SecretKey"]!))
+            Encoding.UTF8.GetBytes(jwtSecretKey))
     };
 });
 

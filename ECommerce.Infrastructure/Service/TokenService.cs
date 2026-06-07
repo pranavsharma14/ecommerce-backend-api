@@ -22,7 +22,13 @@ namespace CleanAPI.Infrastructure.Service
         public TokenService(IConfiguration configuration)
         {
             _secretKey = configuration["JwtSettings:SecretKey"]
-                ?? throw new ArgumentNullException("SecretKey not found");
+                ?? throw new InvalidOperationException(
+                    "JwtSettings:SecretKey is required. Set it with user-secrets or an environment variable.");
+
+            if (string.IsNullOrWhiteSpace(_secretKey))
+                throw new InvalidOperationException(
+                    "JwtSettings:SecretKey is required. Set it with user-secrets or an environment variable.");
+
             _issuer = configuration["JwtSettings:Issuer"]
                 ?? throw new ArgumentNullException("Issuer not found");
             _audience = configuration["JwtSettings:Audience"]
