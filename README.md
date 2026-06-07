@@ -20,6 +20,7 @@ and Clean Architecture.
 - Product & Category Management
 - Shopping Cart
 - Order Management with Stock Control
+- Product Reviews and Ratings
 - Global Exception Handling
 - Structured Logging with Serilog
 - Pagination, Filtering & Sorting
@@ -62,32 +63,39 @@ and Clean Architecture.
 ### Auth
 - POST /api/auth/register
 - POST /api/auth/login
-- GET  /api/auth/me
+- GET  /api/auth/me [Authorize]
 
 ### Products
 - GET    /api/products
+- GET    /api/products/paged
+- GET    /api/products/my-products [Authorize]
 - GET    /api/products/{id}
-- POST   /api/products        [Authorize]
-- PUT    /api/products/{id}   [Authorize]
-- DELETE /api/products/{id}   [Authorize]
+- POST   /api/products [Authorize]
+- PUT    /api/products/{id} [Authorize]
+- DELETE /api/products/{id} [Authorize]
 
 ### Categories
 - GET    /api/categories
 - GET    /api/categories/{id}
-- POST   /api/categories      [Admin]
+- POST   /api/categories [Admin]
 - PUT    /api/categories/{id} [Admin]
 - DELETE /api/categories/{id} [Admin]
 
 ### Cart
-- GET    /api/cart            [Authorize]
-- POST   /api/cart/items      [Authorize]
-- PUT    /api/cart/items/{id} [Authorize]
-- DELETE /api/cart/items/{id} [Authorize]
-- DELETE /api/cart            [Authorize]
+- GET    /api/cart [Authorize]
+- POST   /api/cart [Authorize]
+- PUT    /api/cart/{cartItemId} [Authorize]
+- DELETE /api/cart/{cartItemId} [Authorize]
+- DELETE /api/cart [Authorize]
 
 ### Orders
-- GET  /api/order             [Authorize]
-- GET  /api/order/{id}        [Authorize]
-- POST /api/order             [Authorize]
-- PUT  /api/order/{id}        [Admin]
-- GET  /api/order/all         [Admin]
+- GET  /api/order [Authorize]
+- GET  /api/order/{orderId} [Authorize]
+- POST /api/order [Authorize]
+- PUT  /api/order/{orderId} [Admin]
+- GET  /api/order/all [Admin]
+
+### Reviews
+- GET    /api/reviews/{productId}/reviews
+- POST   /api/reviews/{productId}/reviews [Authorize]
+- DELETE /api/reviews/{productId}/reviews/{reviewId} [Authorize]
